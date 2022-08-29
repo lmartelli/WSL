@@ -43,7 +43,7 @@ WSL will detect the existence of these files, read the contents, and automatical
 > [!NOTE]
 > Adjusting per-distribution settings with the wsl.conf file is only available in Windows Build 17093 and later.
 
-### The 8 second rule
+### The 8 seconds rule
 
 You must wait until the subsystem running your Linux distribution completely stops running and restarts for configuration setting updates to appear. This typically takes about 8 seconds after closing ALL instances of the distribution shell.
 
